@@ -2,6 +2,12 @@
 -- Map: Summer Castle
 -- Modes: Frost
 
+NewLoadoutTower("Scout")
+NewLoadoutTower("Ranger")
+NewLoadoutTower("Accelerator")
+NewLoadoutTower("Engineer")
+NewLoadoutTower("DJ Booth")
+
 VoteSkipWave(0, 0)
 AutoSkipVote()
 UnlockTimeScale(0)
