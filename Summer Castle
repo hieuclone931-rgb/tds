@@ -42,9 +42,9 @@ UpgradeTower(10.777, 13.128, 300)
 UpgradeTower(10.777, 13.128, 1250)
 UpgradeTower(10.777, 13.128, 3000)
 
---
+
 SetTower("Track", "Green", 10.777, 13.128, 5)
---useAbility0("Drop The Beat", 10.777, 13.128, 5)
+useAbility0("Drop The Beat", 10.777, 13.128, 5)
 AutoChainDJ(
     {
         {10.777, 13.128}
@@ -135,9 +135,8 @@ UpgradeTower(17.489, 32.132, 4675)
 UpgradeTower(11.281, 27.700, 4675)
 UpgradeTower(11.286, 24.249, 4675)
 
---=======================================
+
 StopAutoSkipVote()
---=======================================
 
 UpgradeTower(8.101, 23.731, 4675)
 UpgradeTower(10.145, 21.047, 4675)
@@ -191,7 +190,7 @@ UpgradeTower(11.201, 5.280, 25500)
 UpgradeTower(8.003, 4.400, 25500)
 SetTower("Track", "Red", 10.777, 13.128, 5)
 UpgradeTower(16.626, 18.385, 32375)
---useAbility0("Drop The Beat", 10.777, 13.128, 753)
+useAbility0("Drop The Beat", 10.777, 13.128, 753)
 UpgradeTower(16.281, 15.156, 32375)
 UpgradeTower(17.798, 12.345, 32375)
 UpgradeTower(14.749, 12.128, 32375)
@@ -213,9 +212,9 @@ PlaceTower("Accelerator", 19.318,0.976,9.688, 4500)
 UpgradeTower(19.318, 9.688, 925)
 UpgradeTower(19.318, 9.688, 2312)
 UpgradeTower(19.318, 9.688, 4393)
---
---useAbility0("Drop The Beat", 10.777, 13.128, 5)
---
+
+useAbility0("Drop The Beat", 10.777, 13.128, 5)
+
 UpgradeTower(19.318, 9.688, 10406)
 UpgradeTower(19.318, 9.688, 33300)
 PlaceTower("Accelerator", 15.804,0.980,3.696, 4500)
@@ -227,9 +226,9 @@ UpgradeTower(15.804, 3.696, 33300)
 PlaceTower("Accelerator", 20.577,0.988,6.524, 4500)
 UpgradeTower(20.577, 6.524, 925)
 UpgradeTower(20.577, 6.524, 2312)
---
+
 --useAbility0("Drop The Beat", 10.777, 13.128, 975)
---
+
 UpgradeTower(20.577, 6.524, 10406)
 UpgradeTower(20.577, 6.524, 10406)
 UpgradeTower(20.577, 6.524, 33300)
@@ -252,8 +251,7 @@ UpgradeTower(13.176, 2.213, 4393)
 UpgradeTower(13.176, 2.213, 10406)
 UpgradeTower(13.176, 2.213, 33300)
 
---=== Last UP
--- Accelerator
+
 UpgradeTower(21.053, 12.707, 33300)
 UpgradeTower(19.264, 3.683, 33300)
 UpgradeTower(13.176, 2.213, 33300)
