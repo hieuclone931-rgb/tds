@@ -43,16 +43,11 @@ UpgradeTower(15.565, 2.101)
 PlaceTower("Hacker", 8.770, 1.000, 11.222)
 UpgradeTower(8.770, 11.222)
 UpgradeTower(8.770, 11.222)
-UpgradeTower(8.770, 11.222)
-UpgradeTower(8.770, 11.222)
-UpgradeTower(8.770, 11.222)
 
 PlaceTower("Hacker", 7.298, 1.000, 13.900)
 UpgradeTower(7.298, 13.900)
 UpgradeTower(7.298, 13.900)
-UpgradeTower(7.298, 13.900)
-UpgradeTower(7.298, 13.900)
-UpgradeTower(7.298, 13.900)
+
 
 
 PlaceTower("Scout", 10.130, 1.000, 8.459)
