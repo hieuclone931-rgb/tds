@@ -4,6 +4,12 @@
 -- Map: U-Turn
 -- Modes: Frost
 
+NewLoadoutTower("Scout")
+NewLoadoutTower("Hacker")
+NewLoadoutTower("Accelerator")
+NewLoadoutTower("Mercenary Base")
+NewLoadoutTower("Spotlight Tech")
+ 
 VoteSkipWave(0, 0)
 AutoSkipVote()
 --
