@@ -3,6 +3,13 @@
 -- Map: Simplicity
 -- Mode: Frost
 
+NewLoadoutTower("Scout")
+NewLoadoutTower("Hacker")
+NewLoadoutTower("Accelerator")
+NewLoadoutTower("Mercenary Base")
+NewLoadoutTower("Warlock")
+
+
 VoteSkipWave(0, 0)
 AutoSkipVote()
 UnlockTimeScale(0)
