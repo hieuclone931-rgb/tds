@@ -1,0 +1,165 @@
+-- =======================================
+-- Loadout: Scout, Hacker, Accelerator, Mercenary Base, Warlock
+-- Map: Simplicity
+-- Mode: Frost
+
+VoteSkipWave(0, 0)
+AutoSkipVote()
+UnlockTimeScale(0)
+CycleTimeScale(0)
+CycleTimeScale(0)
+
+PlaceTower("Scout", 15.648, 1.000, 11.383)
+PlaceTower("Scout", 15.759, 1.000, 8.285)
+PlaceTower("Scout", 15.635, 1.000, 5.102)
+PlaceTower("Scout", 13.004, 1.000, 9.720)
+PlaceTower("Scout", 13.000, 1.000, 6.683)
+PlaceTower("Scout", 12.951, 1.000, 3.658)
+PlaceTower("Scout", 15.565, 1.000, 2.101)
+
+UpgradeTower(15.648, 11.383)
+UpgradeTower(13.004, 9.720)
+UpgradeTower(13.000, 6.683)
+UpgradeTower(15.759, 8.285)
+UpgradeTower(15.635, 5.102)
+UpgradeTower(15.565, 2.101)
+UpgradeTower(12.951, 3.658)
+
+UpgradeTower(13.004, 9.720)
+UpgradeTower(13.000, 6.683)
+UpgradeTower(12.951, 3.658)
+UpgradeTower(15.648, 11.383)
+UpgradeTower(15.759, 8.285)
+UpgradeTower(15.635, 5.102)
+UpgradeTower(15.565, 2.101)
+
+----------------------------------------------------
+-- HACKER (FULL)
+----------------------------------------------------
+
+PlaceTower("Hacker", 8.770, 1.000, 11.222)
+UpgradeTower(8.770, 11.222)
+UpgradeTower(8.770, 11.222)
+UpgradeTower(8.770, 11.222)
+UpgradeTower(8.770, 11.222)
+UpgradeTower(8.770, 11.222)
+
+PlaceTower("Hacker", 7.298, 1.000, 13.900)
+UpgradeTower(7.298, 13.900)
+UpgradeTower(7.298, 13.900)
+UpgradeTower(7.298, 13.900)
+UpgradeTower(7.298, 13.900)
+UpgradeTower(7.298, 13.900)
+
+----------------------------------------------------
+-- SCOUT (MID)
+----------------------------------------------------
+
+PlaceTower("Scout", 10.130, 1.000, 8.459)
+UpgradeTower(10.130, 8.459)
+UpgradeTower(10.130, 8.459)
+
+PlaceTower("Scout", 10.232, 1.000, 5.456)
+UpgradeTower(10.232, 5.456)
+UpgradeTower(10.232, 5.456)
+
+PlaceTower("Scout", 10.113, 1.000, 2.431)
+UpgradeTower(10.113, 2.431)
+UpgradeTower(10.113, 2.431)
+
+PlaceTower("Scout", 12.720, 1.000, 0.583)
+UpgradeTower(12.720, 0.583)
+UpgradeTower(12.720, 0.583)
+
+----------------------------------------------------
+-- MERCENARY BASE
+----------------------------------------------------
+
+PlaceTower("Mercenary Base", 25.390, 1.000, 12.630)
+UpgradeTower(25.390, 12.630)
+UpgradeTower(25.390, 12.630)
+UpgradeTower(25.390, 12.630)
+
+PlaceTower("Mercenary Base", 20.680, 1.000, 12.670)
+UpgradeTower(20.680, 12.670)
+UpgradeTower(20.680, 12.670)
+UpgradeTower(20.680, 12.670)
+
+PlaceTower("Mercenary Base", 25.790, 1.000, 18.400)
+UpgradeTower(25.790, 18.400)
+UpgradeTower(25.790, 18.400)
+UpgradeTower(25.790, 18.400)
+
+----------------------------------------------------
+-- WARLOCK
+----------------------------------------------------
+
+PlaceTower("Warlock", -12.138, 2.350, -3.530)
+UpgradeTower(-12.138, -3.530)
+UpgradeTower(-12.138, -3.530)
+UpgradeTower(-12.138, -3.530)
+
+PlaceTower("Warlock", -9.125, 2.350, -3.751)
+UpgradeTower(-9.125, -3.751)
+UpgradeTower(-9.125, -3.751)
+UpgradeTower(-9.125, -3.751)
+
+PlaceTower("Warlock", -12.596, 2.350, -0.488)
+UpgradeTower(-12.596, -0.488)
+UpgradeTower(-12.596, -0.488)
+UpgradeTower(-12.596, -0.488)
+
+PlaceTower("Warlock", -9.515, 2.350, -0.767)
+UpgradeTower(-9.515, -0.767)
+UpgradeTower(-9.515, -0.767)
+UpgradeTower(-9.515, -0.767)
+
+----------------------------------------------------
+-- ACCELERATOR
+----------------------------------------------------
+
+PlaceTower("Accelerator", -6.104, 2.350, -3.549)
+UpgradeTower(-6.104, -3.549)
+UpgradeTower(-6.104, -3.549)
+UpgradeTower(-6.104, -3.549)
+
+PlaceTower("Accelerator", -2.939, 2.350, -3.341)
+UpgradeTower(-2.939, -3.341)
+UpgradeTower(-2.939, -3.341)
+UpgradeTower(-2.939, -3.341)
+
+PlaceTower("Accelerator", 0.184, 2.350, -3.290)
+UpgradeTower(0.184, -3.290)
+UpgradeTower(0.184, -3.290)
+UpgradeTower(0.184, -3.290)
+
+PlaceTower("Accelerator", -2.451, 2.350, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+
+PlaceTower("Accelerator", 0.105, 2.350, 4.042)
+UpgradeTower(0.105, 4.042)
+UpgradeTower(0.105, 4.042)
+UpgradeTower(0.105, 4.042)
+
+----------------------------------------------------
+-- ENGINEER (END GAME)
+----------------------------------------------------
+
+PlaceTower("Engineer", -2.451, 2.350, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+UpgradeTower(-2.451, 2.408)
+
+PlaceTower("Engineer", -3.100, 2.350, 2.408)
+UpgradeTower(-3.100, 2.408)
+UpgradeTower(-3.100, 2.408)
+UpgradeTower(-3.100, 2.408)
+UpgradeTower(-3.100, 2.408)
+UpgradeTower(-3.100, 2.408)
+UpgradeTower(-3.100, 2.408)
+
