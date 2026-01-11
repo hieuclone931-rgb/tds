@@ -45,11 +45,6 @@ UpgradeTower(10.777, 13.128)
 
 SetTower("Track", "Green", 10.777, 13.128, 5)
 useAbility0("Drop The Beat", 10.777, 13.128, 5)
-AutoChainDJ(
-    {
-        {10.777, 13.128}
-    }
-)
 
 
 PlaceTower("Scout", 11.286,0.972,24.249)
