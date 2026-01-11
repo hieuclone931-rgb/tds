@@ -350,10 +350,6 @@ AutoUberChain(
 )
 
 
-CycleTimeScale(0)
-CycleTimeScale(0)
-CycleTimeScale(0)
-
 PlaceTower("Turret", 0.097,1.000,-14.042)
 PlaceTower("Turret", -8.131,1.000,7.167)
 PlaceTower("Turret", -2.524,1.000,7.283)
