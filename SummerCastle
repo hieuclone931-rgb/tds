@@ -1,8 +1,15 @@
 -- loadout: Scout, Ranger, Accelerator, Engineer, DJ Booth
 -- Map: Summer Castle
 
+--
+UnlockTimeScale(0)
+CycleTimeScale(0)
+CycleTimeScale(0)
+--
 VoteSkipWave(0, 0)
 AutoSkipVote()
+StopAutoSkipVoteWave(28)
+--
 PlaceTower("Scout", 17.504,0.984,28.880, 250)
 PlaceTower("Scout", 14.162,0.980,28.976, 250)
 PlaceTower("Scout", 17.489,0.987,32.132, 250)
@@ -31,7 +38,7 @@ UpgradeTower(10.777, 13.128, 3000)
 
 --
 SetTower("Track", "Green", 10.777, 13.128, 5)
---useAbility0("Drop The Beat", 10.777, 13.128, 5)
+useAbility0("Drop The Beat", 10.777, 13.128, 5)
 AutoChainDJ(
     {
         {10.777, 13.128}
